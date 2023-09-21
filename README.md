@@ -18,3 +18,14 @@ python generate.py "table_test.json" "table_test_output.txt"
 
 ## Our data
 You can access our data in the google drive: [data](https://drive.google.com/drive/folders/1XjlwdqdQxPQzTh0vqPsdUmpY5z5aD-v6?usp=drive_link)
+
+## Citation
+If you find our work useful in your research, please kindly consider cite:
+```
+@article{tang2023struc,
+  title={Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?},
+  author={Tang, Xiangru and Zong, Yiming and Zhao, Yilun and Cohan, Arman and Gerstein, Mark},
+  journal={arXiv preprint arXiv:2309.08963},
+  year={2023}
+}
+```
