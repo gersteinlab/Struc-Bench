@@ -24,7 +24,7 @@ If you find our work useful in your research, please kindly consider cite:
 ```
 @article{tang2023struc,
   title={Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?},
-  author={Tang, Xiangru and Zong, Yiming and Zhao, Yilun and Cohan, Arman and Gerstein, Mark},
+  author={Xiangru Tang and Yiming Zong and Jason Phang and Yilun Zhao and Wangchunshu Zhou and Arman Cohan and Mark B. Gerstein},
   journal={arXiv preprint arXiv:2309.08963},
   year={2023}
 }
