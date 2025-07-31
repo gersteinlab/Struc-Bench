@@ -1,4 +1,5 @@
-# Struc-Bench
+# Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data?
+
 
 <p align="center"><a href="https://aclanthology.org/2024.naacl-short.2/">[📄 Paper]</a>
 
